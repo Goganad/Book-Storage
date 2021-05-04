@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "chunky shrapnel",
+  "booksRoot": "./books",
+  "mongoUri": "mongodb://localhost:27017/streaming",
+  "baseUrl": "http://localhost:5000"
+}
